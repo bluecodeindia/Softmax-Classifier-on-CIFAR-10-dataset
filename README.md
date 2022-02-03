@@ -1,6 +1,6 @@
 # Softmax-Classifier-on-CIFAR-10-dataset
 
-1. Download the data CIFAR-10 dataset in the data folder.
+1. Download the data CIFAR-10 dataset and extract in the data folder.
 
 2. The CIFAR-10 dataset has 50,000 images for the training and 10,000 images for the test.
 
